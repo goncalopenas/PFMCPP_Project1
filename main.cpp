@@ -33,6 +33,7 @@ This project will also introduce you to the review process, and how Pull Request
                 action: burn out and destroy filament.
 
         
+        
  3) write out how you'd call that action in pseudo code, in the space after the plain-english action
  
  4) If the action requires multiple words, use camelCaseToNameIt
