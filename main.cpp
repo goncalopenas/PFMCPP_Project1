@@ -33,6 +33,7 @@ This project will also introduce you to the review process, and how Pull Request
                 action: burn out and destroy filament.
 
         
+        
  3) write out how you'd call that action in pseudo code, in the space after the plain-english action
  
  4) If the action requires multiple words, use camelCaseToNameIt
@@ -59,84 +60,96 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: TV
+//  action 1: TV On
+tv.on();
+//  action 2: TV Off
+tv.off();
+//  action 3: TV changes channel
+tv.changeChannel();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: printer
+//  action 1: printer prints
+printer.print();
+//  action 2: printer runs out of tint
+printer.outOfTint();
+//  action 3: printer turns on wi-fi connection
+printer.wifiConnectionOn();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: person
+//  action 1: person seats
+person.seat();
+//  action 2: person jumps
+person.jump();
+//  action 3: person shouts
+person.shouts();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog 
+//  action 1: dog barks
+dog.bark();
+//  action 2: dog smells poop
+dog.smellPoop();
+//  action 3: dog gets lost
+dog.getLost();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: car
+//  action 1: car crashes
+car.crash();
+//  action 2: car brakes
+car.brake();
 
-//  action 2:
-
-//  action 3:
+//  action 3: car gets flat tires
+car.flatTires();
  
+
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: laptop
+//  action 1: laptop dies
+laptop.die();
+//  action 2: laptop falls
+laptop.fall();
+//  action 3: laptop takes a picture of me without my consent
+laptop.takePictureOfMeWithoutMyConsent();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: phone
+//  action 1: phone calls my vegan frined
+phone.callMyVeganFriend();
+//  action 2: phone plays sad piano music for me
+phone.playSadPianoMusic ();
+//  action 3:phone vibrates enough
+phone.vibrateEnough();
  
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: old granny
+//  action 1: old granny gets older
+oldGranny.getOlder();
+//  action 2: old granny falls down the stairs 
+oldGranny.fallDownStairs();
+//  action 3: old granny kisses me 
+oldGranny.kissMe();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: weird neighbor
+//  action 1: weird neighbor talks to himself
+weirdNeighbor.talkToHimself();
+//  action 2: weird neighbor come home naked
+weirdNeighbor.comeHomeNaked();
+//  action 3: wierd neighbor likes good music
+weirdNeighbor.likeGoodMusic();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cow
+//  action 1: cow sprints full speed
+cow.fullSpeed();
+//  action 2: cow speaks fluent portuguese
+cow.speakPortuguese();
+//  action 3: cow gets me some milk
+cow.getMilk();
  
 
 
