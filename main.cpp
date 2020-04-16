@@ -99,11 +99,13 @@ dog.getLost();
 //  Noun: car
 //  action 1: car crashes
 car.crash();
-//  action 2: car breaks
-car.break();
+//  action 2: car brakes
+car.brake();
+
 //  action 3: car gets flat tires
 car.flatTires();
  
+
 //  6)
 //  Noun: laptop
 //  action 1: laptop dies
